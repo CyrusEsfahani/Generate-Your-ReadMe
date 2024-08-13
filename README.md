@@ -16,7 +16,7 @@
 ## Installation
 To install the README.md Generator, clone the repository and install the necessary dependencies:
 https://github.com/CyrusEsfahani/HW-7.git
-npm install inquirer 
+
 
 ## Usage
 - **Customizable Templates:** Choose from various README templates to fit your project's needs.
